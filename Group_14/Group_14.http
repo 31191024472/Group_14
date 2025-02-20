@@ -1,0 +1,6 @@
+@Group_14_HostAddress = http://localhost:5206
+
+GET {{Group_14_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
